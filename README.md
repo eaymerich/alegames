@@ -1,2 +1,2 @@
-# alegames
-Small games for my child.
+# AleGames
+Small python games for my child.
