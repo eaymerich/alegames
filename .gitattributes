@@ -1,0 +1,11 @@
+# Default config
+* text=auto
+
+# Text files
+*.py text eol=lf
+
+# Binary files
+*.jpg binary
+*.png binary
+*.wav binary
+*.ogg binary
